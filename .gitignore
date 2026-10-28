@@ -1,0 +1,8 @@
+# Cópias locais dos dados (baixadas na máquina do leitor; não vão para o repositório)
+dados_cache/
+*.pkl
+*.pkl.xz
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
